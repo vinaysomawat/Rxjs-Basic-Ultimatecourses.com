@@ -49,3 +49,11 @@ pre {
   padding: 10px;
   color: var(--code-base);
 }
+
+.progress_bar {
+  position: fixed;
+  top: 0;
+  height: 4px;
+  width: 0%;
+  background: #ff16b7;
+}
